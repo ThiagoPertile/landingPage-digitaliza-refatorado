@@ -469,3 +469,28 @@ body {
     padding: 32px 64px;
   }
 }
+
+.sociais {
+  background-color: var(--laranja-escuro);
+  margin-top: 24px;
+  height: 100vv;
+  bottom: 0px;
+}
+
+.sociais__lista {
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+  gap: 16px;
+}
+
+.sociais__lista a img:hover {
+  transform: scale(1.1);
+  transition: all ease-in-out 250ms;
+}
+.sociais p {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 8px;
+}
