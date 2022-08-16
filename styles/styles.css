@@ -461,7 +461,7 @@ body {
     justify-content: center;
   }
   .img__form {
-    width: 40vw;
+    max-width: 600px;
     transform: translateY(0px);
   }
   .form__box {
