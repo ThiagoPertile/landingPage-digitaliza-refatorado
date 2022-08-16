@@ -462,7 +462,7 @@ body {
   }
   .img__form {
     width: 40vw;
-    transform: translateY(0);
+    transform: translateY(0px);
   }
   .form__box {
     margin: 0;
