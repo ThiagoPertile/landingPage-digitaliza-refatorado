@@ -110,7 +110,7 @@ body {
     flex-direction: row-reverse;
     width: 80vw;
     margin: 0 auto;
-    justify-content: center;
+    justify-content: flex-end;
   }
   .hero__img {
     height: 50vh;
@@ -331,7 +331,7 @@ body {
   justify-content: center;
   background-color: var(--azul-claro);
   padding: 24px;
-  border-radius: 16px;
+  /* border-radius: 16px; */
   margin-bottom: 64px;
 }
 .img__form {
